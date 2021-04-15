@@ -1,3 +1,5 @@
 Mobilná aplikácia pre evidenciu čiernych skládok
 
 Anotácia.
+
+Rok obhajoby.
